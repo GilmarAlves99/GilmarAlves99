@@ -11,3 +11,6 @@
 - 💼 &nbsp; Ainda não trabalho na área
 
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=GilmarAlves99&show_icons=true)
+
+[![HitCount](http://hits.dwyl.com/GilmarAlves99/GilmarAlves99.svg)](http://hits.dwyl.com/GilmarAlves99/GilmarAlves99)
+

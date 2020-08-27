@@ -13,4 +13,8 @@
 - 🎓 &nbsp; Studying <b> Systems development = Technical </b>
 - 💼 &nbsp; I still don't work in the field
 
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=GilmarAlves99&show_icons=true)
+<p>
+
+ ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=GilmarAlves99&show_icons=true)    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilmarAlves99&layout=compact&hide=php" />   
+
+</p>

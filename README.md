@@ -12,24 +12,9 @@
 - 💼 &nbsp; I still don't work in the field
 
 
-<center>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=GilmarAlves99&show_icons=true&include_all_commits=true&theme=buefy" />
 
-<div  style="float:left; width:50%">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilmarAlves99&langs_count=15&theme=buefy)
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GilmarAlves99&layout=compact&theme=buefy" />
 
-</div>
-
-<div  style="float:left; width:50%">
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GilmarAlves99&show_icons=true&theme=buefy)
-
-</div>
-
-<div  style="clear:both">
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GilmarAlves99&repo=Portfolio&theme=buefy)
-
-</div>
-
-</center>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=GilmarAlves99&repo=Pariquera&theme=buefy" />

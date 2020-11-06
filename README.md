@@ -15,9 +15,10 @@
 <div style="float:left;">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilmarAlves99&langs_count=15)
-</div>
+
 <div style="float:right;"> 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GilmarAlves99&show_icons=true&theme=dark)
 
+</div>
 </div>

@@ -11,11 +11,13 @@
 - 🎓 &nbsp; Studying <b> Systems development = Technical </b>
 - 💼 &nbsp; I still don't work in the field
 
-<p align="center">
 
+<div style="float:left;">
 
- ![AryclenioGitHubStats](https://github-readme-stats.vercel.app/api?username=GilmarAlves99&show_icons=true)  
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilmarAlves99&layout=compact&hide=php" />   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilmarAlves99&langs_count=15)
+</div>
+<div style="float:right;"> 
 
-</p>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GilmarAlves99&show_icons=true&theme=dark)
 
+</div>

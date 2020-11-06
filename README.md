@@ -12,13 +12,24 @@
 - 💼 &nbsp; I still don't work in the field
 
 
-<div style="float:left;">
+<center>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilmarAlves99&langs_count=15)
+<div  style="float:left; width:50%">
 
-<div style="float:right;"> 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GilmarAlves99&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilmarAlves99&langs_count=15&theme=buefy)
 
 </div>
+
+<div  style="float:left; width:50%">
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GilmarAlves99&show_icons=true&theme=buefy)
+
 </div>
+
+<div  style="clear:both">
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GilmarAlves99&repo=Portfolio&theme=buefy)
+
+</div>
+
+</center>

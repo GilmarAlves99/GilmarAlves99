@@ -12,9 +12,13 @@
 - 💼 &nbsp; I still don't work in the field
 
 
+
+
+
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=GilmarAlves99&show_icons=true&include_all_commits=true&theme=buefy" />
 
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GilmarAlves99&layout=compact&theme=buefy" />
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=GilmarAlves99&repo=Pariquera&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilmarAlves99&langs_count=10&theme=buefy" />
+<hr>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=GilmarAlves99&repo=Portfolio&theme=buefy" />
+  

@@ -20,7 +20,7 @@
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilmarAlves99&langs_count=10&theme=buefy" />
 <hr>
-  <a href="https://github.com/GilmarAlves99/Portfolio">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=GilmarAlves99&repo=Portfolio&theme=buefy" />
+  <a href="https://gilmaralves99.github.io/Portfolio-Atual-/index.html">
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=GilmarAlves99&repo=Portfolio-Atual-&theme=buefy" />
     </a>
   

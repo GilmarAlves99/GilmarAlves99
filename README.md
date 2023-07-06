@@ -1,42 +1,50 @@
+<h3> :adult: &nbsp;Sobre mim </h3>
 
-## Olá, me chamo Gilmar Zezilia Alves e esse é meu perfil no GitHub :D
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções.
+- 💼 &nbsp; Ainda não trabalho na área 
+- 🌱 &nbsp; Aprendendo mais sobre **React.js, Node.js**.
 
-- 💻 Atualmente, estou me aperfeiçoando em CSS, JS e Bootstrap  ... 
-- 📥 E também aprendendo ReactJS, NodeJS ...
-- 👨‍💻 Desejo iniciar minha carreira na area de Front-end ...
-- 📚 Cursando Engenharia de Software na Universidade Unicesumar ...<br/>
+<h3> :rocket: &nbsp;Minhas Skills </h3>
 
-<div align="center" style="display: inline_block">👩‍💻 Conhecimentos <br><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Mysql" height="30" width="40" src="https://user-images.githubusercontent.com/75760299/154389808-5a3662ed-e12a-4c29-a944-98830a5d0f2c.png"/>
-  </div>
+**Aplicações e Dados**
 
-</br>
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
+  ![React.JS](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react.js)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+**Utilidades**
+
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+
+**DevOps**
+
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+
 <div align="center" >
 
-  <a href="https://github.com/GilmarAlves99">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GilmarAlves99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilmarAlves99&layout=compact&langs_count=7&theme=dark"/>
-<br>
-  <a href="https://www.linkedin.com/in/gilmar-zezilia-alves-336610182/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5513997954520&text=Ol%C3%A1%2C%20vindo%20pelo%20GitHub." target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/13997954520"/>
-  </a> 
-  <a href = "mailto:gilmaralves914@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<SEUEMAIL>" />
-  </a>
-    <br/>
-  
-</div>  
-  <h4 align="center"> 
-      <a href="https://gilmaralves.dev.br/">
-      https://gilmaralves.dev.br/ 
-      </a> 
-  </h4>
+<a href="https://github.com/GilmarAlves99">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=GilmarAlves99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</a>
+
+<br/>
 
   
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Gilmar Alves](https://img.shields.io/badge/-GilmarAlves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilmar-zezilia-alves-336610182/)](https://www.linkedin.com/in/gilmar-zezilia-alves-336610182/)
+[![Gmail Badge](https://img.shields.io/badge/-gilmaralves914@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gilmaralves914@email.com)](mailto:gilmaralves914@gmail.com)
+[![GitHub GilmarAlves99]( https://img.shields.io/github/followers/GilmarAlves99?label=follow&style=social)](https://github.com/GilmarAlves99)
+
+
+<a  href='https://gilmaralves.dev.br/'>https://gilmaralves.dev.br/</a>
+</div>

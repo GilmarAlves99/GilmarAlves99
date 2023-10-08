@@ -1,8 +1,8 @@
-<h3> :adult: &nbsp;Sobre mim </h3>
+<h2> :adult: Gilmar Zezilia Alves, 24 anos. </h2>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções.
-- 💼 &nbsp; Ainda não trabalho na área 
-- 🌱 &nbsp; Aprendendo mais sobre **React.js, Node.js**.
+- 💼 &nbsp; Disponivel.
+- 🌱 &nbsp; **React.js, Node.js**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
